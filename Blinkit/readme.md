@@ -1,4 +1,5 @@
 📊 Blinkit Sales Analysis with Power BI
+
 🧾 Project Overview
 This project provides an end-to-end data analysis and visualization of Blinkit’s sales performance using Power BI. By exploring patterns in product characteristics, outlet information, and customer purchasing behavior, this analysis helps stakeholders make informed decisions around inventory, outlet performance, and customer preferences.
 
